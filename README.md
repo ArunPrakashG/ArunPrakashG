@@ -1,4 +1,4 @@
-# Welcome, Hoomen!
+# Welcome!
 
 Hey, I am Arun Prakash, I code for fun.
 I am always looking for a challenge, to learn more, and in depth about C#.
@@ -37,6 +37,8 @@ I have done few projects, including many mini projects and 1 main project. I enj
 * [BulkMailer](https://github.com/ArunPrakashG/BulkMailer) - Send emails in bulk from an account. Made for just a small purpose, Use this at your own risk as gmail might flag your account for spam.
 
 * [SteamBanChecker](https://github.com/ArunPrakashG/SteamBanChecker) - Checks ban status on steam accounts in bulk.
+
+* [EpisoDateSharp](https://github.com/ArunPrakashG/EpisodateSharp) - Unoffical .NET Standard wrapper library to interact with https://www.episodate.com/api API.
 
 ---
 

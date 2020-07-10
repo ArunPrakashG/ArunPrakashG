@@ -16,7 +16,7 @@ I have done few projects, including many mini projects and 1 main project. I enj
 
 * [exSharp](https://github.com/ArunPrakashG/exSharp) - Contains a lot of useful extensions, personally i find it better if i have a single library for extensions which i use almost most of my time.
 
-* [Synergy](https://github.com/ArunPrakashG/Synergy) = This is a single Solution, containing multiple projects, each with their own uses.
+* [Synergy](https://github.com/ArunPrakashG/Synergy) - This is a single Solution, containing multiple projects, each with their own uses.
   * [Synery.Extensions](https://github.com/ArunPrakashG/Synergy/tree/master/Synergy.Extensions) - Contains Helper functions to assist with a lot of tasks, such as creating threads, running an `Action` in background etc.
   * [Synergy.Logging](https://github.com/ArunPrakashG/Synergy/tree/master/Synergy.Logging) - An event based logging library which i use on my mini projects. 
   * [Synergy.PInvoke](https://github.com/ArunPrakashG/Synergy/tree/master/Synergy.PInvoke) - A wrapper library for interacting with Windows Native methods, for uses such as getting point location, getting pixel color etc.

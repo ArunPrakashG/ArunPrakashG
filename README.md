@@ -1,5 +1,5 @@
-# Welcome!
-
+# Welcome! 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ArunPrakashG.visitor-badge)](https://github.com/ArunPrakashG)
 Hey, I am Arun Prakash, I code for fun.
 I am always looking for a challenge, to learn more, and in depth about C#.
 I have done few projects, including many mini projects and 1 main project. I enjoy doing those so that i can push my knowledge in C# to another level with experience.

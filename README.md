@@ -38,7 +38,7 @@ I have done few projects, including many mini projects and 1 main project. I enj
 
 * [SteamBanChecker](https://github.com/ArunPrakashG/SteamBanChecker) - Checks ban status on steam accounts in bulk.
 
-* [EpisoDateSharp](https://github.com/ArunPrakashG/EpisodateSharp) - Unoffical .NET Standard wrapper library to interact with https://www.episodate.com/api API.
+* [EpisodateSharp](https://github.com/ArunPrakashG/EpisodateSharp) - Unoffical .NET Standard wrapper library to interact with https://www.episodate.com/api API.
 
 ---
 

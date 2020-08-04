@@ -26,8 +26,9 @@
 
 ---
 
-### My projects
-
+<details>
+  <summary>Projects</summary>
+  
 - [Luna](https://github.com/ArunPrakashG/Luna) - My main project, i call this one, The Long Term Project, LTP in short. My goal with this project is to rewrite its code as i get to know more about C# and .NET Core framework. I started this project as a raspberry pi application to control my room lights using a smartphone application by interfacing with a TCP Socket Server <-> Client system. Now this application can control lights with some other functionality such as a REST server instead of TCP socket, Text to speech, Entire GPIO Control with 3 drivers (RaspberryIO driver, WiringPI driver, System.Devices driver), a 'shell' utility to enter various commands, just like in a terminal, morse code generator and some more!
 
 - [PinIndex](https://github.com/ArunPrakashG/PinIndex) - Just a wrapper for api.postalpincode.in API. used for getting post offices in a locality. (INDIA)
@@ -61,6 +62,7 @@
 - [SteamBanChecker](https://github.com/ArunPrakashG/SteamBanChecker) - Checks ban status on steam accounts in bulk.
 
 - [EpisodateSharp](https://github.com/ArunPrakashG/EpisodateSharp) - Unoffical .NET Standard wrapper library to interact with https://www.episodate.com/api API.
+</details>
 
 ---
 

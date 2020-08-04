@@ -24,8 +24,6 @@
 <br />
 <br />
 
----
-
 <details>
   <summary>Projects</summary>
   
@@ -63,8 +61,6 @@
 
 - [EpisodateSharp](https://github.com/ArunPrakashG/EpisodateSharp) - Unoffical .NET Standard wrapper library to interact with https://www.episodate.com/api API.
 </details>
-
----
 
 <img align="left" alt="ArunPrakashG's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArunPrakashG&show_icons=true&hide_border=true&count_private=true" />
 

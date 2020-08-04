@@ -24,6 +24,15 @@
 <br />
 <br />
 
+<img align="left" alt="ArunPrakashG's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArunPrakashG&show_icons=true&hide_border=true&count_private=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunPrakashG)](https://github.com/ArunPrakashG/github-readme-stats)
+
+<br />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <details>
   <summary>Projects</summary>
   
@@ -62,11 +71,3 @@
 - [EpisodateSharp](https://github.com/ArunPrakashG/EpisodateSharp) - Unoffical .NET Standard wrapper library to interact with https://www.episodate.com/api API.
 </details>
 
-<img align="left" alt="ArunPrakashG's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ArunPrakashG&show_icons=true&hide_border=true&count_private=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunPrakashG)](https://github.com/ArunPrakashG/github-readme-stats)
-
-<br />
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->

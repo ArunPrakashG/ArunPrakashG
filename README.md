@@ -1,7 +1,7 @@
 ### Hi there, I'm Arun 👋
 
 ## I'm a student, currently pursuing BCA!
-- 🔭 I’m currently working [Luna](https://github.com/ArunPrakashG/Luna), one of my main personal projects! ✨
+- 🔭 I’m currently working on [Luna](https://github.com/ArunPrakashG/Luna), one of my personal main projects! ✨
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: To know more in-depth knowledge about C#
 - ⚡ Fun fact: I love to sit and stare at the night sky and wonder how the stars came into existence 😁

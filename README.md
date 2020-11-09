@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 575 Contributions in the Year 2020
+> 🏆 577 Contributions in the Year 2020
  > 
-> 📦 108.8 kB Used in Github's Storage 
+> 📦 108.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -76,16 +76,16 @@ Sunday       113 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    12 mins             ██████████████░░░░░░░░░░░   56.25% 
-C#                       6 mins              ███████░░░░░░░░░░░░░░░░░░   28.65% 
-XAML                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.1%
+C#                       1 hr 38 mins        ███████████████░░░░░░░░░░   60.23% 
+Other                    36 mins             █████░░░░░░░░░░░░░░░░░░░░   22.26% 
+XAML                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52%
 
 🔥 Editors: 
-Visual Studio            22 mins             █████████████████████████   100.0%
+Visual Studio            2 hrs 44 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-BSNLFiberTracker         11 mins             █████████████░░░░░░░░░░░░   51.79% 
-SteamGameFarmer          10 mins             ████████████░░░░░░░░░░░░░   48.21%
+BSNLFiberTracker         2 hrs 33 mins       ███████████████████████░░   93.41% 
+SteamGameFarmer          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.59%
 
 ```
 

@@ -2,7 +2,7 @@
 #### I'm a student, currently pursuing BCA!
 I just love programming, and staring at the night sky :P
 
-Skills: C# / .NET / Xamarin / XAML / PHP / C++ / C / Java
+Skills: C# / .NET / Xamarin.Forms / XAML / ASP.NET / PHP / C++ / C / Java
 
 - 🔭 I’m currently working on [WordpressCore](https://github.com/ArunPrakashG/WordpressCore) 
 - 🌱 I’m currently learning more about Xamarin Forms :D 

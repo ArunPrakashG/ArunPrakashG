@@ -5,7 +5,7 @@ I just love programming, and staring at the night sky :P
 Skills: C# / .NET / Xamarin.Forms / XAML / ASP.NET / PHP / C++ / C / Java
 
 - 🔭 I’m currently working on [WordpressCore](https://github.com/ArunPrakashG/WordpressCore) 
-- 🌱 I’m currently learning more about Xamarin Forms :D 
+- 🌱 I’m currently learning Flutter :D 
 - 💬 Ask me about C#, .NET 
 - 📫 How to reach me: [Email](mailto:arun.prakash.456789@gmail.com) | [Facebook](https://www.facebook.com/arunprakash.i/) 
 - ⚡ Fun fact:  I love to sit and stare at the night sky and wonder how the stars came into existence 😁 

@@ -4,8 +4,8 @@
 
 <h6 align="center"><b>C# / .NET / Xamarin.Forms / Flutter / Dart / XAML / ASP.NET / PHP / C++ / C / Java</b></h6>
 
-- 🔭 I’m currently working on [WordpressCore](https://github.com/ArunPrakashG/WordpressCore) 
-- 🌱 I’m currently learning Flutter :D 
+- 🔭 I’m currently working on [wordpress_client](https://github.com/ArunPrakashG/wordpress_client) 
+- 🌱 I’m currently learning Everything :D 
 - 💬 Ask me about C#, .NET 
 - 📫 How to reach me: [Email](mailto:arun.prakash.456789@gmail.com) | [Facebook](https://www.facebook.com/arunprakash.i/) 
 - ⚡ Fun fact:  I love to sit and stare at the night sky and wonder how the stars came into existence 😁

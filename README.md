@@ -15,6 +15,8 @@
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArunPrakashG)](https://github.com/ryo-ma/github-profile-trophy)
+  
+[![ArunPrakash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArunPrakashG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ArunPrakashG)  
 </div>

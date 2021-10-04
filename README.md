@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, my name is Arun</h1>
-<h3 align="center">I'm a student, currently pursuing BCA!</h3>
 <h5 align="center">I just love programming, and staring at the night sky :P</h5>
 
 <h6 align="center"><b>C# / .NET / Xamarin.Forms / Flutter / Dart / XAML / PHP</b></h6>

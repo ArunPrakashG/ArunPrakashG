@@ -20,4 +20,4 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ArunPrakashG)  
 </div>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ArunPrakashG/9304301f-e8ba-40b4-be4e-c7c82818c453.png" /></a>
+<figure><embed src="https://wakatime.com/share/@ArunPrakashG/2f609e41-eac6-42b4-b43a-6d5250ca36cd.svg"></embed></figure>

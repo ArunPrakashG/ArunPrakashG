@@ -19,3 +19,6 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ArunPrakashG)  
 </div>
+
+.. image:: https://wakatime.com/share/@ArunPrakashG/cabaec35-6f49-48f8-b286-bccd7ff2f614.png
+    :target: https://wakatime.com/

@@ -15,7 +15,7 @@
 
 ---
 
-- 🛸 **Crafting Magic @:** Dive into my current project [wordpress_client](https://github.com/ArunPrakashG/wordpress_client)
+- 🛸 **Crafting Magic @:** Dive into my current project [reins](https://github.com/ArunPrakashG/reins)
 - 🌠 **Cosmic Curiosity:** Inspired by Einstein's words, <i>"The important thing is not to stop questioning. Curiosity has its own reason for existence."</i> Every day is a new opportunity to learn and grow!
 - 🛰 **Interstellar Conversations:** Have a passion for C# & .NET? Let's exchange starry insights!
 - 📡 **Reach Out Through the Cosmic Waves:** Connect with me across galaxies via [Email](mailto:arun.prakash.456789@gmail.com) or [Facebook](https://www.facebook.com/arunprakash.i/)

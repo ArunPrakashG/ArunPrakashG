@@ -12,9 +12,11 @@
 
 <p align="center"><img src="assets/h-transmission.svg" alt="Transmission" width="100%"></p>
 
-I'm a software engineer from Pathanamthitta, Kerala, with six years of shipping behind me. I started with Flutter apps, moved to native iOS in SwiftUI, and now spend most of my time on backends, cloud infrastructure and AI agents.
+Hey, I'm Arun. I've been writing code for about 8 years, from a Raspberry Pi assistant that told jokes in 2019 to a stickman brawler that runs in your browser in 2026. I'm based in Kerala, India.
 
-One of my agent pipelines reads a ClickUp task, writes the change, opens a pull request for a human to review and updates the task. It took task turnaround from about 3 hours to 20 minutes. In my own time I build open-source tools in Rust and Dart, and the odd thing like decoding my motorcycle's Bluetooth stream.
+I'll build most things at least once: Flutter apps, native iOS, backends, AI agents, Linux desktop tools. Lately that means a lot of Rust, a lot of Claude Code, and [Yozora](https://github.com/ArunPrakashG/yozora), my own take on a Hyprland desktop. I like pulling apart things that weren't meant to be pulled apart, like my motorcycle's Bluetooth stream. I also build my own PCs, and the one on my desk runs CachyOS.
+
+Fun fact: my sister taught me Windows XP and Microsoft Paint, so she gets the credit. Still curious.
 
 <p align="center"><img src="assets/h-orbit.svg" alt="Current orbit" width="100%"></p>
 

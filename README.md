@@ -14,9 +14,11 @@
 
 Hey, I'm Arun. I've been writing code for about 8 years, from a Raspberry Pi assistant that told jokes in 2019 to a stickman brawler that runs in your browser in 2026. I'm based in Kerala, India.
 
-I'll build most things at least once: Flutter apps, native iOS, backends, AI agents, Linux desktop tools. Lately that means a lot of Rust, a lot of Claude Code, and [Yozora](https://github.com/ArunPrakashG/yozora), my own take on a Hyprland desktop. I like pulling apart things that weren't meant to be pulled apart, like my motorcycle's Bluetooth stream. I also build my own PCs, and the one on my desk runs CachyOS.
+I'll build most things at least once: Flutter apps, native iOS, backends, AI agents, Linux desktop tools. I've also spent a good while in Unity, shipping VR apps for Oculus Quest and Pico, plus a WebGL game or two. Lately it's a lot of Rust, a lot of Claude Code, and [Yozora](https://github.com/ArunPrakashG/yozora), my own take on a Hyprland desktop.
 
-Fun fact: my sister taught me Windows XP and Microsoft Paint, so she gets the credit. Still curious.
+I like pulling apart things that weren't meant to be pulled apart, like my motorcycle's Bluetooth stream. I also build my own PCs, and yes, I use Arch (CachyOS), btw.
+
+My sister taught me Windows XP and Microsoft Paint, and that gave me the confidence to start exploring and get to where I am today. Thanks, sis. Still curious.
 
 <p align="center"><img src="assets/h-orbit.svg" alt="Current orbit" width="100%"></p>
 

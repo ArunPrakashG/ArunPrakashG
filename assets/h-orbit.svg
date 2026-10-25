@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 48" width="1000" height="48" role="img" aria-label="CURRENT ORBIT">
+<defs>
+<linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#8b5cf6" stop-opacity="0"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+<linearGradient id="r" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient>
+<linearGradient id="tx" x1="0" x2="1"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+</defs>
+<style>
+
+.tw{animation:tw 4s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.2}50%{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+</style>
+<rect x="40.0" y="23" width="301.5" height="1.5" fill="url(#l)"/>
+<circle class="tw" cx="341.5" cy="24" r="2.6" fill="#8b5cf6"/>
+<text x="500" y="30" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="17" font-weight="700" letter-spacing="6" fill="url(#tx)">CURRENT ORBIT</text>
+<circle class="tw" cx="658.5" cy="24" r="2.6" fill="#22d3ee" style="animation-delay:1.5s"/>
+<rect x="662.5" y="23" width="297.5" height="1.5" fill="url(#r)"/>
+</svg>

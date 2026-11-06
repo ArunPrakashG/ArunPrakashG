@@ -22,16 +22,17 @@ My sister taught me Windows XP and Microsoft Paint, and that gave me the confide
 
 <p align="center"><img src="assets/h-orbit.svg" alt="Current orbit" width="100%"></p>
 
-✦ **Building now:** [yozora](https://github.com/ArunPrakashG/yozora), an open-source Hyprland desktop in Rust and GPUI, and [reins](https://github.com/ArunPrakashG/reins), a harness for running Claude Code, Codex and Gemini CLIs side by side.
+✦ **Building now:** [Agentic Routines](https://agenticroutines.arunprakashg.com), a cache that replays your agent's browser work as one tool call with no model (the repo opens soon), [yozora](https://github.com/ArunPrakashG/yozora), an open-source Hyprland desktop in Rust and GPUI, and [reins](https://github.com/ArunPrakashG/reins), a harness for running Claude Code, Codex and Gemini CLIs side by side.
 
-✦ **Recently launched:** [xposed](https://getxposed.link), [Impact Frame](https://impactframe.app) and [Twistgrip](https://twistgrip.arunprakashg.com).
+✦ **Recently launched:** [xposed](https://getxposed.link), [Impact Frame](https://impactframe.app), [Twistgrip](https://twistgrip.arunprakashg.com), and native rebuilds of my two oldest apps, [Relay](https://resultchecker.arunprakashg.com) and [Gauge](https://gauge.arunprakashg.com). I also rebuilt the theme of [Pathanamthitta Media](https://pathanamthittamedia.com) and gave it a native Android app.
 
-✦ **Open source:** the [wave-planning](https://github.com/ArunPrakashG/wave-planning) Claude Code plugin, plus five Dart packages on pub.dev under the verified publisher [arunprakashg.com](https://pub.dev/publishers/arunprakashg.com/packages).
+✦ **Open source:** the [wave-planning](https://github.com/ArunPrakashG/wave-planning) Claude Code plugin, [Specwright](https://github.com/ArunPrakashG/specwright), which turns a client brief into a store, plus five Dart packages on pub.dev under the verified publisher [arunprakashg.com](https://pub.dev/publishers/arunprakashg.com/packages).
 
 <p align="center"><img src="assets/h-constellations.svg" alt="Constellations" width="100%"></p>
 
 | Project | What it does | Built with |
 | :-- | :-- | :-- |
+| [**Agentic Routines**](https://agenticroutines.arunprakashg.com) | A cache for your agent's browser work. It records what the agent did, then replays it as one tool call with no model, checking the page before every step and pausing before anything you can't undo. The repo opens soon. | TypeScript · Go · MCP |
 | [**wave-planning**](https://github.com/ArunPrakashG/wave-planning) | Claude Code plugin that splits a project into dependency-ordered waves. Each phase runs in its own subagent and git worktree, on the cheapest model that can do the job. | Python · Claude Code |
 | [**yozora**](https://github.com/ArunPrakashG/yozora) | Open-source desktop for Hyprland: bar, notifications, lock screen, idle, launcher and settings. | Rust · GPUI |
 | [**reins**](https://github.com/ArunPrakashG/reins) | Hire, release and interrupt Claude Code, Codex and Gemini CLIs from one place, each in its own role and tmux session. | Rust |
@@ -40,6 +41,10 @@ My sister taught me Windows XP and Microsoft Paint, and that gave me the confide
 | [**xposed**](https://getxposed.link) | Right-click any file, get a public HTTPS link and a QR code. It streams from your disk, so nothing is uploaded, and the link expires in 24 hours. | Go · frp · SQLite |
 | [**Impact Frame**](https://impactframe.app) | A stickman brawler in the browser. Fixed 120 Hz simulation, and the server replays every leaderboard run to check it. | WebGL2 · Rust (axum) |
 | [**Twistgrip**](https://twistgrip.arunprakashg.com) | Companion app for the TVS Apache RTR 310, built on a Bluetooth stream I reverse-engineered. Live cockpit, ride replay, Wear OS watch face. | Kotlin · Wear OS · BLE |
+| [**Pathanamthitta Media**](https://pathanamthittamedia.com) | A Malayalam news site with over 277,000 stories. I rebuilt the theme to load fast on a phone (Lighthouse 48 to 93 on an article page) and built its native Android app. | PHP · WordPress · Kotlin |
+| [**Relay**](https://resultchecker.arunprakashg.com) | Tells MGU students the moment their result is out and keeps the mark sheet on their phone. Rebuilt from my 2021 Flutter app, with about 50k downloads on Google Play since 2021. | Kotlin · Go · SvelteKit |
+| [**Gauge**](https://gauge.arunprakashg.com) | Shows how much of your BSNL fibre plan you have used this cycle, plus bills and plans. It asks BSNL straight from the phone, so no other server sees your login. | Kotlin · Go |
+| [**Specwright**](https://github.com/ArunPrakashG/specwright) | Turns a client brief into a store the client owns. One platform-neutral spec, a WooCommerce adapter, and the same storefront checks before anyone sees it. | TypeScript · WooCommerce |
 | [**Nimbus**](https://usenimbus.dev) | WordPress plugin that moves a media library to S3, Cloudflare R2 or any S3-compatible storage without changing how you upload. | PHP · WordPress |
 | [**system_mcp**](https://github.com/ArunPrakashG/system_mcp) | MCP server for Windows that gives agents cursor control, window management, UI automation and screenshots. | Python · MCP |
 
